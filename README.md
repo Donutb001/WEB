@@ -15,4 +15,8 @@ builder.Services.AddDbContext<############>(options =>
     "DefaultConnection": "Server=######;Initial Catalog=######;Persist Security Info=False;User ID=#####;Password='####';MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=true;Connection Timeout=30;"
 
   },
+
+
+
+ -Tables NewFCL
  
